@@ -52,6 +52,7 @@
         "groups": [
           {
             "group": "API documentation",
+            "expanded": true,
             "pages": [
               "api-reference/introduction"
             ]
