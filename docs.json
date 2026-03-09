@@ -57,7 +57,8 @@
             ]
           },
           {
-            "group": "사용자 관리",
+            "group": "API Endpoints",
+            "expanded": true,
             "openapi": "api-reference/openapi.json"
           }
         ]
