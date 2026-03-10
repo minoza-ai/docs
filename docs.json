@@ -79,7 +79,7 @@
   },
   "errors": {
     "404": {
-      "redirect": false
+      "redirect": true
     }
   },
   "description": "2026 육군창업경진대회",
@@ -108,5 +108,8 @@
     "playground": {
       "display": "interactive"
     }
+  },
+  "icons": {
+    "library": "fontawesome"
   }
 }
