@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "mint",
   "name": "Taskrit Documentation",
   "colors": {
     "primary": "#3815eb",
