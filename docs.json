@@ -24,6 +24,7 @@
         "groups": [
           {
             "group": "도입",
+            "icon": "book",
             "expanded": true,
             "pages": [
               "api-reference/introduction"
