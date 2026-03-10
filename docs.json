@@ -20,17 +20,18 @@
         ]
       },
       {
-        "tab": "API reference",
+        "tab": "API 레퍼런스",
+        "icon": "network-wired",
         "groups": [
           {
-            "group": "API documentation",
+            "group": "도입",
             "expanded": true,
             "pages": [
               "api-reference/introduction"
             ]
           },
           {
-            "group": "API Endpoints",
+            "group": "엔드포인트",
             "expanded": true,
             "openapi": "api-reference/openapi.json"
           }
@@ -86,11 +87,12 @@
     "default": "system"
   },
   "banner": {
-    "dismissible": false,
+    "dismissible": true,
     "content": "현재 개발중인 페이지입니다."
   },
   "styling": {
-    "latex": true
+    "latex": true,
+    "eyebrows": "breadcrumbs"
   },
   "fonts": {
     "family": "Poppins"
