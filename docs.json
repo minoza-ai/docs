@@ -15,8 +15,7 @@
         "icon": "book",
         "pages": [
           "index",
-          "quickstart",
-          "development"
+          "install"
         ]
       },
       {
